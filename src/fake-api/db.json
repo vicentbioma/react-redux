@@ -1,0 +1,25 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Makan",
+      "isCompleted": true
+    },
+    {
+      "name": "COBA3",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "isCompleted": false,
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Vicent "
+    }
+  ]
+}
