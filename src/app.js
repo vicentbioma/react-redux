@@ -1,6 +1,6 @@
 import React from 'react'
-import NavigationBar from './src/component/Navbar.jsx'
-import TodoPages from './src/pages/TodoPages'
+import NavigationBar from './component/Navbar.jsx'
+import TodoPages from './pages/TodoPages'
 
 
 class App extends React.Component {
